@@ -3,7 +3,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Morse Code Decoder ](#-morse-code-decoder-)
+- [📖 Ruby Enumerable ](#-ruby-enumerable-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -21,9 +21,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Code Decoder <a name="about-project"></a>
+# 📖 Ruby Enumerable <a name="about-project"></a>
 
-**Morse Code Decoder** is a ruby application for decrypting morse code messages.
+**Ruby Enumerable** The Enumerable module provides a collection of methods that enable you to perform common operations on a collection, such as iterating through elements, filtering elements based on certain criteria, and transforming elements in the collection.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -35,7 +35,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Morse Code Decoder Method**
+- **Ruby Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -102,7 +102,7 @@ To run the project, execute the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Deployment**
+- [ ] **Add more methods to Enumerable**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
